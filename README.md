@@ -17,7 +17,7 @@ The steps to train the models are
 # Results
 The results are reported on CIFAR-10 and CIFAR-100 datasets.
 
-![Histogram of log-likelihood](results/cifar10_id_data.png){ width=200 height=300 }
+![Histogram of log-likelihood](results/cifar10_id_data.png)
 
 
-![AUROC/AUPR/FPR95 results](results/table.png){ width=200 height=300 }
+![AUROC/AUPR/FPR95 results](results/table.png)
